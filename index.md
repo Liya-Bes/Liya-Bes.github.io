@@ -34,7 +34,7 @@ Ethics Papers
 ### [Paper 1 Title](/pdf/EthicsPaper.pdf)
 
 -   **Class: CSCI 235 
--   **Grade: **
+-   **Grade: 91/100
 
 ### [Paper 2 Title](/pdf/Ethics+Paper-3.pdf)
 
