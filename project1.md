@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 1: Creating Ethernet Cables & Building a LAN 
 ===============
 
 -   **Class: CSCI 332 Applied Networking
