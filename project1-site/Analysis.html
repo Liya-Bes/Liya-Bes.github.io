@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Section VI</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: red;
+        }
+        h3 {
+            font-size: 26px;
+            font-weight: bold;
+            color: brown;
+        }
+        a {
+            text-decoration: underline;
+            color: black;
+            margin: 0 10px;
+        }
+        hr {
+            margin: 20px 0;
+        }
+        table{
+            display: flex; 
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <ul>
+        <a href="Introduction.html">Introduction</a>
+        <a href="Creating Ethernet Cables.html">Creating Ethernet Cables</a>
+        <a href="Installing a Sumba Server.html">Installing a Samba Server</a>
+        <a href="Using One Router.html">Constructing a LAN Using One Router</a>
+        <a href="Two Routers.html">Constructing a LAN Using Two Routers</a>
+        <a href="Analysis.html">Experiment Analysis</a>
+    </ul>
+
+
+    <h1>Experiment Analysis</h1>
+
+    <a href="TwoRouter1.jpeg"><img src="TwoRouter1.jpeg" alt="" width="300" ></a>
+    
+    <h3>LAN Setup with Two Routers</h3>
+
+    <p>We tried to build a LAN using two routers and two computers. Here is what we did:</p>
+
+    <h2>Steps We Took:</h2>
+
+    <p>Connected Mark's Computer to Router 1 using an Ethernet cable.</p>
+    <p>Connected Liya's Computer to Router 2 the same way.</p>
+    <p>Connected Router 1 to Router 2 using another Ethernet cable.</p>
+    <p>Set IP ranges for each router:</p>
+    <p>Router 1: 192.168.110.1</p>
+    <p>Router 2: 192.168.110.2</p>
+
+    <p>***Even though we followed the steps, the computers could not talk to each other.***</p>
+
+    <h2>What We Think Went Wrong:</h2>
+
+    <p>The routers may have blocked each other’s signals.</p>
+
+    <p>One of the routers may have needed to be a different one.</p>
+
+    <h3>File Sharing Setup</h3>
+
+    <p>We tried to set up file sharing using Samba on Linux/Ubuntu.</p>
+
+    <p>We shared a folder on Mark's computer.</p>
+
+    <p>We set the folder to allow guest access and read/write permissions.</p>
+
+    <p>We tried to access it from Liya's, but it didn’t work because the network wasn’t working.</p>
+
+    <h2>Experiment Analysis Table</h2>
+    
+    <table border="1" cellpadding="8">
+    
+        <tr>
+        <th>Item</th>
+        <th>Details</th>
+        </tr>
+        <tr>
+        <td>File Size</td>
+        <td>6.3 GB</td>
+        </tr>
+        <tr>
+        <td>Mark's IP</td>
+        <td>192.168.110.4</td>
+        </tr>
+        <tr>
+        <td>Liya's IP</td>
+        <td>192.168.111.3</td>
+        </tr>
+        <tr>
+        <td>Protocol Used</td>
+        <td>TCP/IP</td>
+        </tr>
+        <tr>
+        <td>Routers Used</td>
+        <td>2</td>
+        </tr>
+        <tr>
+        <td>Transfer Speed</td>
+        <td>N/A</td>
+        </tr>
+        <tr>
+        <td>Time Taken</td>
+        <td>N/A</td>
+        </tr>
+        <tr>
+        <td>Folder Shared Using</td>
+        <td>Samba (setup complete on Mark's )</td>
+        </tr>
+        <tr>
+        <td>User Access</td>
+        <td>Guest access, full read/write</td>
+        </tr>
+        <tr>
+        <td>Problems Encountered</td>
+        <td>Routers didn’t connect the two networks</td>
+        </tr>
+        <tr>
+        <td>Solutions Tried</td>
+        <td>Checked cables, rebooted everything</td>
+        </tr>
+        <tr>
+        <td>Final Result</td>
+        <td>File sharing failed with two routers</td>
+        </tr>
+   
+    </table>
+
+</body>
+</html>
