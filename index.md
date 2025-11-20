@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Applied_Project1page.png)
 
 ---
-### [Project 2 Title | CSCI 325](project2)
+### [Project 2 Title | CSCI 325](Project2)
 
 ![Project 2 Thumbnail Name](images/Playing.png)
 
