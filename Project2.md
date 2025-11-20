@@ -37,9 +37,6 @@ Fig 2. After user clicks S on the keyboard game starts.
 ![screenshot](images/PauseScreen.png)  
 Fig 3. If the user press space the game is paused and also starts.
 
-![screenshot](images/RestartScreen.png)  
-Fig 3. If the user press R game restarts.
-
 ## 3. Additional Considerations
 
 The game is a one player game but it can be imporved by adding a timer, comparing previous score to new score, and adding multiple players. 
