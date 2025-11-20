@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Applied_Project1page.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/PlayingGame.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
