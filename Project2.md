@@ -29,13 +29,13 @@ If the programming language does not require compilation, the update the heading
 This is a terminal game and the user plays the game using the keyboard. The UI consists of game grid, score board, apple and the snake as well as a message telling the user if the game is paused, over or instruction to start the game. 
 
 ![screenshot](images/StartScreen.png)  
-Fig 1. The launch screen
-
-![screenshot](images/PlayingGame.png)  
-Fig 2. After user clicks S on the keyboard game starts.
+Fig 1. The launch screen press S to start the game
 
 ![screenshot](images/Playing.png)  
-Fig 3. The user can play using the arrows.
+Fig 2. Can be layed using the keyboard right, left, up and down.
+
+![screenshot](images/RestartScreen.png)  
+Fig 3. Can restart the game by clicking R.
 
 ![screenshot](images/PauseScreen.png)  
 Fig 4. If the user press space the game is paused and also starts.
