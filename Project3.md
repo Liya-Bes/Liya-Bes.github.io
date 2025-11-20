@@ -29,20 +29,23 @@ g++ Battleship.cpp -o battleship
 
 We used terminal to run the game. The user inputs what coordinates they would like to attack and get either hit or miss text depending if they hit or miss. They would also be able to view what places they have succesfully hit and what they have missed by updating the game board after each play. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The figures below will show the game board, the instruction, and what message is displayed when user miss, hit, and enter invalid coordinates.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Play.png)  
+Fig 1. The launch Game and ask if they would like to play
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Hit.png)  
+Fig 2. If the coordinates theu picked hit the enemy ship.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Miss.png)  
+Fig 3. If they missed the ship.
+
+![screenshot](images/InvalidCoordinates.png)  
+Fig 4. If they enter invalid coordinate.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+We used an AI, EnemyAI.hpp to attack the players board.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
