@@ -6,8 +6,8 @@ Project 1: Snake Game
 -   **Class: CSCI 325
 -   **Grade: 100/100
 -   **Language(s): Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ](https://github.com/csu-cs/SnakeGame) 
+    (Please [email me](mailto:lmbesintu@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -18,11 +18,16 @@ This project we made the classic poular game Snake Game using Java. We used term
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
-```
+# Clone the repo
+git clone https://github.com/csu-cs/SnakeGame
+cd SnakeGame
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+#once under the src directory we have to compile all java file
+javac src/csu/csci325/*.java
+
+# we will run the main program
+java csu.csci325.Main
+```
 
 ## UI Design
 
