@@ -1,10 +1,10 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 1 Database Design & Implementation
 ===============
 
--   **Class:** 
--   **Grade:** 
+-   **Class: CSCI 419
+-   **Grade: This is a semester project with different parts. I found the average grade for this whole project to be                       97.14/100. 
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
