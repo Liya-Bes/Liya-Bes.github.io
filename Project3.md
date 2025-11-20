@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 3: Battleship Game
 ===============
 
 -   **Class: CSCI 235
