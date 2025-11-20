@@ -6,7 +6,7 @@ Project 3: Battleship Game
 -   **Class: CSCI 235
 -   **Grade: 71/100
 -   **Language(s): C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  ](https://github.com/Liya-Bes/BattleshipGame)
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
