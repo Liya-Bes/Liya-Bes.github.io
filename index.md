@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:lmbesintu@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Creating Ethernet Cables & Building a LAN | CSCI 332](project1.md)
@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/EthicsPaper.pdf)
+### [Paper 1 Important Notification or Disruptive Distraction?](/pdf/EthicsPaper.pdf)
 
 -   **Class: CSCI 235 
 -   **Grade: 91/100
 
-### [Paper 2 Title](/pdf/Ethics+Paper-3.pdf)
+### [Paper 2 What I believe will be the most significant ethical dilemma or dilemmas I will face in my career](/pdf/Ethics+Paper-3.pdf)
 
 -   **Class: CSCI 325
 -   **Grade: 95/100
 
-### [Paper 3 Title](/pdf/EthicsPaper2.pdf)
+### [Paper 3 Software Testing](/pdf/EthicsPaper2.pdf)
 
 -   **Class: CSCI 315
 -   **Grade: 100/100
