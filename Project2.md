@@ -34,8 +34,11 @@ Fig 1. The launch screen
 ![screenshot](images/PlayingGame.png)  
 Fig 2. After user clicks S on the keyboard game starts.
 
+![screenshot](images/Playing.png)  
+Fig 3. The user can play using the arrows.
+
 ![screenshot](images/PauseScreen.png)  
-Fig 3. If the user press space the game is paused and also starts.
+Fig 4. If the user press space the game is paused and also starts.
 
 ## 3. Additional Considerations
 
