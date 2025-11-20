@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Project 2 Title | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/PlayingGame.png)
+![Project 2 Thumbnail Name](images/Playing.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
