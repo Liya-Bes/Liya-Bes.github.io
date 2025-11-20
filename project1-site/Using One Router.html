@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Section IV</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: red;
+        }
+        h3 {
+            font-size: 26px;
+            font-weight: bold;
+            color: brown;
+        }
+        a {
+            text-decoration: underline;
+            color: black;
+            margin: 0 10px;
+        }
+        hr {
+            margin: 20px 0;
+        }
+
+        table{
+            display: flex; 
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <ul>
+        <a href="Introduction.html">Introduction</a>
+        <a href="Creating Ethernet Cables.html">Creating Ethernet Cables</a>
+        <a href="Installing a Sumba Server.html">Installing a Samba Server</a>
+        <a href="Using One Router.html">Constructing a LAN Using One Router</a>
+        <a href="Two Routers.html">Constructing a LAN Using Two Routers</a>
+        <a href="Analysis.html">Experiment Analysis</a>
+    </ul>
+
+
+    <h1>Constructing a LAN Using One Router</h1>
+
+    <a href="OneRouterPing.png"><img src="OneRouterPing.png" alt="" width="380" ></a>
+    <a href="OneRouterPIngMark.png"><img src="OneRouterPIngMark.png" alt="" width="380" ></a>
+    <a href="oneRouter.jpeg"><img src="oneRouter.jpeg" alt="" width="400" ></a>
+    <a href="transmission1Router.png"><img src="transmission1Router.png" alt="" width="400" ></a>
+    <a href="IMG_7903.jpeg"><img src="IMG_7903.jpeg" alt="" width="200" ></a>
+
+    <h3>LAN Setup: Step-by-Step</h3>
+    <p>We built a LAN (Local Area Network) so two computers could share files and talk to each other.</p>
+
+    <h2>Step 1: Reset the Router</h2>
+    <p>We reset the router by pressing the small reset button then connect it to the laptop</p>
+
+    <h2>Step 2: Pick a New IP Range</h2>
+    <p>We logged into the router using a web browser and chose a new IP range for our group.</p>
+    <p>Our group used this range: 192.168.110.1 - 192.168.110.255</p>
+
+    <h2>Step 3: Connect the Computers & Turn off WI-FI</h2>
+    <p>We used Ethernet cables to connect both computers to the router. Each cable plugged into the back of the computer and into one of the router’s LAN ports.</p>
+    <p>Also, to make sure our test was fair, we turned off Wi-Fi on both computers.</p> 
+
+    <h3>TCP/IP Configuration</h3>
+    <p> Mark's Computer IP: 192.168.110.4</p>
+    <p> Subnet Mask: 255.255.255.0</p>
+    <p> Liya's Computer IP: 192.168.110.3</p>
+    <p> Subnet Mask: 255.255.255.0</p>
+
+    <h3>Data Transmission Experiment</h3>
+    <p>We sent the file from Computer 1 to Computer 2 using the shared Samba folder.</p>
+
+    <h2>Result</h2>
+    <p>We opened “System Monitor” to see how fast the file was being sent.</p>
+    <p>Transfer Speed: About 67.7 Mbps</p>
+    <p>Time Taken: Around 1 minute and 25 seconds</p>
+
+    <h3>Problems and Solutions</h3>
+
+    <h2>Problem 1:</h2>
+    <p>One computer didn’t get an IP address at first.Couldn't access each others file</p>
+    <h2>Solution:</h2>
+    <p>We unplugged the Ethernet cable and plugged it back in. Then we restarted the laptop and checked that we turn off the wi-fi.
+        we also manually searched for <br/>eachothers IP address in Samba to be able to access the Folder in eachothers laptop. By doing this we were able
+        to access and send each other big sized files. It worked!</p>
+
+    <h2>Problem 2:</h2>
+    <p>The file transfer was slow at first.</p>
+    <h2>Solution:</h2>
+    <p>We disabled Wi-Fi to make sure the computers used only the Ethernet cable.</p>
+    
+
+    <h3>Experiment Analysis Table</h3>
+    
+    <table border="1" cellpadding="8">
+    
+        <tr>
+        <th>Item</th>
+        <th>Details</th>
+        </tr>
+        <tr>
+        <td>File Size</td>
+        <td>6.3 GB</td>
+        </tr>
+        <tr>
+        <td>Mark's IP</td>
+        <td>192.168.110.4</td>
+        </tr>
+        <tr>
+        <td>Liya's IP</td>
+        <td>192.168.111.3</td>
+        </tr>
+        <tr>
+        <td>Protocol Used</td>
+        <td>TCP/IP</td>
+        </tr>
+        <tr>
+        <td>Routers Used</td>
+        <td>1</td>
+        </tr>
+        <tr>
+        <td>Transfer Speed</td>
+        <td>67.7 Mbps</td>
+        </tr>
+        <tr>
+        <td>Time Taken</td>
+        <td>1:25 min</td>
+        </tr>
+        <tr>
+        <td>Folder Shared Using</td>
+        <td>Samba (Shared from Liya's computer and Mark reciever )</td>
+        </tr>
+        <tr>
+        <td>User Access</td>
+        <td>Guest access, full read/write</td>
+        </tr>
+        <tr>
+        <td>Problems Encountered</td>
+        <td>Couldn't access each other's public file </td>
+        </tr>
+        <tr>
+        <td>Solutions Tried</td>
+        <td>Inserted and connected by manually putting the IP.<br/>
+            Example: we searched for smb://192.168.110.4
+        </td>
+        </tr>
+        <tr>
+        <td>Final Result</td>
+        <td>File sharing Succesful</td>
+        </tr>
+   
+    </table>
+</body>
+</html>
