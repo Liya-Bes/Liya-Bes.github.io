@@ -7,19 +7,19 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1.md)
+### [Project 1 Creating Ethernet Cables & Building a LAN | CSCI 332](project1.md)
 
 ![Project 1 Thumbnail Name](images/Applied_Project1page.png)
 
 ---
-### [Project 2 Title | CSCI 325](Project2.md)
+### [Project 2 Snake Game | CSCI 325](Project2.md)
 
 ![Project 2 Thumbnail Name](images/Playing.png)
 
 ---
-### [Project 3 Title | CSCI 325](Project3.md)
+### [Project 3 Battleship Game | CSCI 235](Project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Play.png)
 
 ---
 ### [Project 4 Title | CSCI 332](Project4.md)
