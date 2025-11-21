@@ -1,34 +1,37 @@
 [Back to Portfolio](./)
 
-Project 1 Database Design & Implementation
+Project 1 Donor Management Database Design & Implementation
 ===============
 
 -   **Class: CSCI 419
 -   **Grade: This is a semester project with different parts. I found the average grade for this whole project to be                       97.14/100. 
--   **Language(s):** 
+-   **Language(s): Oracle SQL, SQL, EER and ER Diagrams
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+For this project, I designed a complete relational database system for university donor management using Oracle SQL. The system models donors profiling, pledge tracking, payments, events, donor circles, matching gifts and event participation. The project was a semester long project and had several parts (planning -> design -> mapping -> implementation -> normalization -> security. Projects parts are listed below please click to view the project file. 
+    Part 1 - Introduction and Requirements 
+    Part 2 - Planning, Techinques and Data Dictionary
+    Part 3 - ER and EER Diagram
+    Part 4 - Mapping ER & EER Diagram
+    Part 5 - Implementation: SQL statements & Sample Date
+    Part 6 - Normalizing the Relational Model
+    Part 7 - Implementing Security
+    Final SQL Script click to download.
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+1. open Oracle SQL Developer
+2. Download the file attached above
+3. go to file and select Project5.sql
+4. run script
+5. the tables and everything should start running
+6. can run sample quaries if you wish
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Users like DBA, analysts and others can perform tasks like creating a schema with one script, viewing data like donors and payment data through public views, updating and reviewing audit trails and testing constraints through sample inserts and deletes. 
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
