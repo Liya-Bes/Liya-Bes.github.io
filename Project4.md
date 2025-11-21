@@ -19,7 +19,7 @@ For this project, I designed a complete relational database system for universit
 5. [Part 5 - Implementation: SQL statements & Sample Date](/pdf/Part5.pdf)
 6. [Part 6 - Normalizing the Relational Model](/pdf/Part6.pdf)
 7. [Part 7 - Implementing Security](/pdf/Part7:8.pdf)
-8. [Final SQL Script click to download.](/pdf/Part1.pdf)
+8. [Final SQL Script click to download.](/pdf/Project5.sql)
 
 ## How to compile and run the program
 
