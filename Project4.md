@@ -6,8 +6,7 @@ Project 1 Donor Management Database Design & Implementation
 -   **Class: CSCI 419
 -   **Grade: This is a semester project with different parts. I found the average grade for this whole project to be                       97.14/100. 
 -   **Language(s): Oracle SQL, SQL, EER and ER Diagrams
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository: N/A
 
 ## Project description
 
@@ -45,7 +44,14 @@ Fig 3. ER Diagram
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project required applying the full database life cycle:
+a. requirements analysis
+b. conceptual modeling
+c. enhanced modeling (specialization/generalization)
+d. relational mapping
+e. setting constraints (PK, FK, CHECK)
+f. normalization up through BCNF
+g. implementing security using views and audit trails 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
