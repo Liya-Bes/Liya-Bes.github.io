@@ -3,11 +3,11 @@
 Project 1: Creating Ethernet Cables & Building a LAN 
 ===============
 
--   **Class: CSCI 332 Applied Networking
--   **Grade: 100/100
--   **Language(s): HTML, CSS, C++
--   **Source Code Repository: Private repository - please email me for access. [ [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  ](https://github.com/Liya-Bes/NetworkingProjectWeb)
--   **Source Code Repository: https://Liya-Bes.github.io/project1-site/index.html
+-   Class: CSCI 332 Applied Networking
+-   Grade: 100/100
+-   Language(s): HTML, CSS, C++
+-   Source Code Repository: Private repository - please email me for access. [ [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  ](https://github.com/Liya-Bes/NetworkingProjectWeb)
+-   Source Code Repository: https://Liya-Bes.github.io/project1-site/index.html
 
 ## Project description
 
