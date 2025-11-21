@@ -20,7 +20,7 @@ This is a full walkthrough and instructional website that demonstrates the steps
 
 ## How to view and run the program
 
-This project doesn't require compilation. It can be viewed online by visiting the hosted site https://Liya-Bes.github.io/project1-site/index.html 
+This project doesn't require compilation. It can be viewed online by visiting the hosted site. [Click to view the website.](https://Liya-Bes.github.io/project1-site/index.html)
 
 ## UI Design
 
