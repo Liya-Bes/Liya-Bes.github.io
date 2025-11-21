@@ -57,9 +57,9 @@ Presentations
 - Grade: N/A
 
 
-### [Presentation 2: Title](/pdf/sample_presentation.pdf)
+### [Presentation 2: Title](/pdf/Databaseppt.pdf)
 
-- Class:** 
+- Class: CSCI 419
 - Grade: N/A
 
 ---
