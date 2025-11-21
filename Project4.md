@@ -12,14 +12,14 @@ Project 1 Donor Management Database Design & Implementation
 ## Project description
 
 For this project, I designed a complete relational database system for university donor management using Oracle SQL. The system models donors profiling, pledge tracking, payments, events, donor circles, matching gifts and event participation. The project was a semester long project and had several parts (planning -> design -> mapping -> implementation -> normalization -> security. Projects parts are listed below please click to view the project file. 
-     [Part 1 - Introduction and Requirements](/pdf/Part1.pdf)
-     [Part 2 - Planning, Techinques and Data Dictionary](/pdf/Part2.pdf)
-     [Part 3 - ER and EER Diagram](/pdf/Part3.pdf)
-     [Part 4 - Mapping ER & EER Diagram](/pdf/Part4.pdf)
-     [Part 5 - Implementation: SQL statements & Sample Date](/pdf/Part5.pdf)
-     [Part 6 - Normalizing the Relational Model](/pdf/Part6.pdf)
-     [Part 7 - Implementing Security](/pdf/Part7:8.pdf)
-     [Final SQL Script click to download.](/pdf/Part1.pdf)
+    1. [Part 1 - Introduction and Requirements](/pdf/Part1.pdf)
+    2. [Part 2 - Planning, Techinques and Data Dictionary](/pdf/Part2.pdf)
+    3. [Part 3 - ER and EER Diagram](/pdf/Part3.pdf)
+    4. [Part 4 - Mapping ER & EER Diagram](/pdf/Part4.pdf)
+    5. [Part 5 - Implementation: SQL statements & Sample Date](/pdf/Part5.pdf)
+    6. [Part 6 - Normalizing the Relational Model](/pdf/Part6.pdf)
+    7. [Part 7 - Implementing Security](/pdf/Part7:8.pdf)
+    8. [Final SQL Script click to download.](/pdf/Part1.pdf)
 ## How to compile and run the program
 
 1. open Oracle SQL Developer
