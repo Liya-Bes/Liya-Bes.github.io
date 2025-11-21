@@ -57,7 +57,7 @@ Presentations
 - Grade: N/A
 
 
-### [Presentation 2: Title](/pdf/Databaseppt.pdf)
+### [Presentation 2: University Donor Tracking](/pdf/Databaseppt.pdf)
 
 - Class: CSCI 419
 - Grade: N/A
