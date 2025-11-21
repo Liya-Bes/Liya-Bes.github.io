@@ -19,7 +19,7 @@ For this project, I designed a complete relational database system for universit
 5. [Part 5 - Implementation: SQL statements & Sample Date](/pdf/Part5.pdf)
 6. [Part 6 - Normalizing the Relational Model](/pdf/Part6.pdf)
 7. [Part 7 - Implementing Security](/pdf/Part7:8.pdf)
-8. Final SQL Script click to download.(/pdf/Part1.pdf)
+8. [Final SQL Script click to download.](/pdf/Part1.pdf)
 
 ## How to compile and run the program
 
@@ -34,14 +34,14 @@ For this project, I designed a complete relational database system for universit
 
 Users like DBA, analysts and others can perform tasks like creating a schema with one script, viewing data like donors and payment data through public views, updating and reviewing audit trails and testing constraints through sample inserts and deletes. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/APEXData.png)  
+Fig 1. The sample data in APEX.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/SQLScripts.png)  
+Fig 2. My SQL Scripts
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/ER.png)  
+Fig 3. ER Diagram
 
 ## 3. Additional Considerations
 
