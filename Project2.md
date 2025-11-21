@@ -3,10 +3,10 @@
 Project 2: Snake Game 
 ===============
 
--   **Class: CSCI 325
--   **Grade: 100/100
--   **Language(s): Java
--   **Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ](https://github.com/csu-cs/SnakeGame) 
+-   Class: CSCI 325
+-   Grade: 100/100
+-   Language(s): Java
+-   Source Code Repository:** [[features/mastering-markdown](https://guides.github.com/features/mastering-markdown/) ](https://github.com/csu-cs/SnakeGame) 
     (Please [email me](mailto:lmbesintu@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
