@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [Paper 1: Important Notification or Disruptive Distraction?](/pdf/EthicsPaper.pdf)
 
--   **Class: CSCI 235 
--   **Grade: 91/100
+-   Class: CSCI 235 
+-   Grade: 91/100
 
 ### [Paper 2: What I believe will be the most significant ethical dilemma or dilemmas I will face in my career](/pdf/Ethics+Paper-3.pdf)
 
--   **Class: CSCI 325
--   **Grade: 95/100
+-   Class: CSCI 325
+-   Grade: 95/100
 
 ### [Paper 3: Software Testing](/pdf/EthicsPaper2.pdf)
 
--   **Class: CSCI 315
--   **Grade: 100/100
+-   Class: CSCI 315
+-   Grade: 100/100
 
 ---
 
@@ -53,14 +53,14 @@ Presentations
 
 ### [Presentation 1: Snake Game](/pdf/Snakeppt.pdf)
 
-- **Class: CSCI 325
-- **Grade: N/A
+- Class: CSCI 325
+- Grade: N/A
 
 
 ### [Presentation 2: Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade: N/A
+- Class:** 
+- Grade: N/A
 
 ---
 
