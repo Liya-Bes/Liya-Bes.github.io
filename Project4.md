@@ -44,14 +44,7 @@ Fig 3. ER Diagram
 
 ## 3. Additional Considerations
 
-This project required applying the full database life cycle:
-a. requirements analysis
-b. conceptual modeling
-c. enhanced modeling (specialization/generalization)
-d. relational mapping
-e. setting constraints (PK, FK, CHECK)
-f. normalization up through BCNF
-g. implementing security using views and audit trails 
+This project required applying the full database life cycle: requirements analysis, conceptual modeling, enhanced modeling (specialization/generalization), relational mapping, setting constraints (PK, FK, CHECK), normalization up through BCNF, implementing security using views and audit trails.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
