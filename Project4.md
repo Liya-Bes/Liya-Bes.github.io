@@ -3,10 +3,10 @@
 Project 4 Donor Management Database Design & Implementation
 ===============
 
--   **Class: CSCI 419
--   **Grade: This is a semester project with different parts. I found the average grade for this whole project to be                       97.14/100. 
--   **Language(s): Oracle SQL, SQL, EER and ER Diagrams
--   **Source Code Repository: N/A
+-   Class: CSCI 419
+-   Grade: This is a semester project with different parts. I found the average grade for this whole project to be                       97.14/100. 
+-   Language(s): Oracle SQL, SQL, EER and ER Diagrams
+-   Source Code Repository: N/A
 
 ## Project description
 
