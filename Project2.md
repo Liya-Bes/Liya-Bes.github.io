@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1: Snake Game 
+Project 2: Snake Game 
 ===============
 
 -   **Class: CSCI 325
